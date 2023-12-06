@@ -21,3 +21,4 @@ else{
     document.querySelector("h1").innerHTML="  &#x1F6A9; Player2 Win";
 }
 }
+document.querySelector(".btn").addEventListner("click",play);
